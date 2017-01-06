@@ -15,3 +15,6 @@ function getSentenceLengths (text) {
 var text = 'string is a string. yes it is';
 
 debug(getSentenceLengths(text));
+
+
+// this is a comment I'm adding
